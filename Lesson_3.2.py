@@ -15,7 +15,8 @@ print(od.keys())
 d = {
     'pen': 3,
     'pineapple': 2,
-    'apple': 1
+    'apple': 1,
+    'fruit': 'peach'
 }
 
 print(d.values())
